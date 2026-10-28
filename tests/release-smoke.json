@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "no diagnostic API in release",
+    "pause music toggle saves",
+    "pause motion toggle saves",
+    "prefers-reduced-motion default",
+    "final pause layout"
+  ],
+  "errors": []
+}

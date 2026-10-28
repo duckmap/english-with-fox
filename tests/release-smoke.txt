@@ -1,0 +1,1 @@
+PASS release smoke: no debug API, mute saved, ranking pagination, game rendering, portrait prompt, no page errors

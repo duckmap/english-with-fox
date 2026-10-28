@@ -1,0 +1,233 @@
+{
+  "image": "atlas.png",
+  "size": {
+    "w": 2048,
+    "h": 2048
+  },
+  "sprites": {
+    "topics/family": {
+      "x": 4,
+      "y": 4,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/family.png"
+    },
+    "topics/animals": {
+      "x": 404,
+      "y": 4,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/animals.png"
+    },
+    "topics/colors": {
+      "x": 804,
+      "y": 4,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/colors.png"
+    },
+    "topics/numbers": {
+      "x": 1204,
+      "y": 4,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/numbers.png"
+    },
+    "topics/food": {
+      "x": 1604,
+      "y": 4,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/food.png"
+    },
+    "topics/toys": {
+      "x": 4,
+      "y": 276,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/toys.png"
+    },
+    "topics/house": {
+      "x": 404,
+      "y": 276,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/house.png"
+    },
+    "topics/clothes": {
+      "x": 804,
+      "y": 276,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/clothes.png"
+    },
+    "topics/school": {
+      "x": 1204,
+      "y": 276,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/school.png"
+    },
+    "topics/body": {
+      "x": 1604,
+      "y": 276,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/body.png"
+    },
+    "topics/nature": {
+      "x": 4,
+      "y": 548,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/nature.png"
+    },
+    "topics/transport": {
+      "x": 404,
+      "y": 548,
+      "w": 256,
+      "h": 256,
+      "file": "assets/topics/transport.png"
+    },
+    "fox/idle": {
+      "x": 804,
+      "y": 548,
+      "w": 256,
+      "h": 256,
+      "file": "assets/fox/idle.png"
+    },
+    "fox/celebrate": {
+      "x": 1204,
+      "y": 548,
+      "w": 256,
+      "h": 256,
+      "file": "assets/fox/celebrate.png"
+    },
+    "fox/wave": {
+      "x": 1604,
+      "y": 548,
+      "w": 256,
+      "h": 256,
+      "file": "assets/fox/wave.png"
+    },
+    "ui/trophy": {
+      "x": 4,
+      "y": 820,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/trophy.png"
+    },
+    "ui/coin": {
+      "x": 404,
+      "y": 820,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/coin.png"
+    },
+    "ui/speaker": {
+      "x": 804,
+      "y": 820,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/speaker.png"
+    },
+    "ui/back": {
+      "x": 1204,
+      "y": 820,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/back.png"
+    },
+    "ui/replay": {
+      "x": 1604,
+      "y": 820,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/replay.png"
+    },
+    "ui/correct": {
+      "x": 4,
+      "y": 1092,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/correct.png"
+    },
+    "ui/incorrect": {
+      "x": 404,
+      "y": 1092,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/incorrect.png"
+    },
+    "ui/music": {
+      "x": 804,
+      "y": 1092,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/music.png"
+    },
+    "ui/star": {
+      "x": 1204,
+      "y": 1092,
+      "w": 256,
+      "h": 256,
+      "file": "assets/ui/star.png"
+    },
+    "ui/button_primary": {
+      "x": 1604,
+      "y": 1092,
+      "w": 320,
+      "h": 96,
+      "file": "assets/ui/button_primary.png"
+    },
+    "ui/button_normal": {
+      "x": 4,
+      "y": 1364,
+      "w": 320,
+      "h": 96,
+      "file": "assets/ui/button_normal.png"
+    },
+    "ui/button_pressed": {
+      "x": 404,
+      "y": 1364,
+      "w": 320,
+      "h": 96,
+      "file": "assets/ui/button_pressed.png"
+    },
+    "ui/button_correct": {
+      "x": 804,
+      "y": 1364,
+      "w": 320,
+      "h": 96,
+      "file": "assets/ui/button_correct.png"
+    },
+    "ui/button_incorrect": {
+      "x": 1204,
+      "y": 1364,
+      "w": 320,
+      "h": 96,
+      "file": "assets/ui/button_incorrect.png"
+    },
+    "ui/button_disabled": {
+      "x": 1604,
+      "y": 1364,
+      "w": 320,
+      "h": 96,
+      "file": "assets/ui/button_disabled.png"
+    },
+    "ui/panel": {
+      "x": 4,
+      "y": 1772,
+      "w": 704,
+      "h": 224,
+      "file": "assets/ui/panel.png"
+    },
+    "ui/topic_card": {
+      "x": 724,
+      "y": 1772,
+      "w": 320,
+      "h": 144,
+      "file": "assets/ui/topic_card.png"
+    }
+  }
+}

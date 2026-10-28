@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "fullhd",
+      "passed": true,
+      "renderWidth": 1728,
+      "renderHeight": 1080,
+      "scale": 1.35,
+      "inputMapped": true,
+      "errors": []
+    },
+    {
+      "name": "4k",
+      "passed": true,
+      "renderWidth": 3456,
+      "renderHeight": 2160,
+      "scale": 2.7,
+      "inputMapped": true,
+      "errors": []
+    },
+    {
+      "name": "retina",
+      "passed": true,
+      "renderWidth": 2560,
+      "renderHeight": 1600,
+      "scale": 2,
+      "inputMapped": true,
+      "errors": []
+    },
+    {
+      "name": "effects mute",
+      "passed": true
+    }
+  ]
+}

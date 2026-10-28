@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "renderWidth": 1728,
+      "renderHeight": 1080,
+      "passed": true,
+      "inputMapped": true
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "renderWidth": 3456,
+      "renderHeight": 2160,
+      "passed": true,
+      "inputMapped": true
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "renderWidth": 1280,
+      "renderHeight": 800,
+      "passed": true,
+      "inputMapped": true
+    }
+  ],
+  "releaseNoDebug": true,
+  "reducedMotionDefault": true,
+  "effectsToggleSaves": true,
+  "errors": []
+}
