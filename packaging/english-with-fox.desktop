@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=English with Fox
+Comment=Угадай английское слово вместе с лисёнком
+Exec=english-with-fox
+Icon=english-with-fox
+Terminal=false
+Categories=Game;Education;
